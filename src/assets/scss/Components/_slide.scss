@@ -1,0 +1,108 @@
+.slide {
+
+    .v-responsive__sizer {
+        display: none;
+    }
+
+    .v-img {
+        height: 700px;
+        width: 100%;
+
+        .v-responsive__content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+            height: 100%;
+
+            .slide-content {
+
+                text-align: center;
+                height: 100%;
+                padding-top: 64px;
+
+                .slide-content-title {
+                    font-size: 50px;
+                    padding: 85px 0 0 0;
+                    letter-spacing: 8px !important;
+                    color: $text-color;
+                    text-shadow: 1px 1px 2px $title-color, 0 0 25px $primary-color, 0 0 5px $primary-color;
+                }
+
+                .input-search {
+                    display: flex;
+                    align-items: center;
+                    background: #f7d800;
+                    border-radius: 30px;
+                    height: 56px;
+                    padding: 0 20px;
+                    margin: 12px 0;
+
+                    input {
+                        width: 100%;
+                        height: 100%;
+                        outline: none;
+                        font-size: 20px;
+                        padding: 0 0 0 12px;
+
+                    }
+                }
+
+                .v-input {
+                    background: #f7d800;
+                    border-radius: 30px;
+                    height: 56px;
+                    padding: 0 20px;
+                    margin: 12px 0;
+
+                    .v-input__details {
+                        display: none !important;
+                    }
+                }
+
+                .v-field--variant-filled .v-field__overlay {
+                    background-color: #f7d800;
+                }
+            }
+
+            .v-list {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100%;
+                list-style: none;
+                background: transparent;
+                background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 1));
+
+                a {
+                    text-align: center;
+                    text-decoration: none;
+
+                    li {
+                        .img-icon {
+                            img {
+                                height: 70%;
+                                object-fit: cover;
+                            }
+                        }
+
+                        p {
+                            min-height: 70px;
+                            color: $title-color;
+                            max-width: 120px;
+                            font-size: 20px;
+                            text-shadow: 1px 1px 2px $text-color;
+
+                        }
+                    }
+                }
+            }
+
+
+        }
+    }
+
+
+}

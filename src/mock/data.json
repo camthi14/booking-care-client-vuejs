@@ -1,0 +1,212 @@
+{
+  "dataDoctor": [
+    {
+      "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 1",
+      "specialty": "Chuyên khoa 1"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 2",
+      "specialty": "Chuyên khoa 2"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 3",
+      "specialty": "Chuyên khoa 3"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 4",
+      "specialty": "Chuyên khoa 4"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 5",
+      "specialty": "Chuyên khoa 5"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 6",
+      "specialty": "Chuyên khoa 6"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 7",
+      "specialty": "Chuyên khoa 7"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "doctorName": "Doctor name 8",
+      "specialty": "Chuyên khoa 8"
+    }
+  ],
+  "dataFacilities": [
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 1"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 2"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 3"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 4"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 5"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 6"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 7"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "name": "cơ sở 8"
+    }
+  ],
+  "dataSpecialty": [
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 1"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 2"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 3"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 4"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 5"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 6"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 7"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameSpecialty": "Chuyên khoa 8"
+    }
+  ],
+  "dataService": [
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 1",
+      "content":"content 1",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 1",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 2",
+      "content":"content 2",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 2",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 3",
+      "content":"content 3",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 3",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 4",
+      "content":"content 4",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 4",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 5",
+      "content":"content 5",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 5",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 6",
+      "content":"content 6",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 6",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 7",
+      "content":"content 7",
+      "area":"Hà Nội",
+      "price":2000,
+      "facilities":"Cơ sở y tế 7",
+      "button":"Xem chi tiêt"
+    },
+    {
+      "img": "https://cdn.vuetifyjs.com/images/cards/cooking.png",
+      "nameService": "Gói dịch vụ 8",
+      "content":"content 8",
+      "area":"Hồ chí minh",
+      "price":2000,
+      "facilities":"Cơ sở y tế 8",
+      "button":"Xem chi tiêt"
+    }
+  ],
+  "dataCategory": [
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095749-khamtongquat.png&w=384&q=75",
+      "nameCate": "Cơ bản"
+    },
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095803-nangcao.png&w=384&q=75",
+      "nameCate": "Nâng cao"
+    },
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095756-nam.png&w=384&q=75",
+      "nameCate": "Nam"
+    },
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095828-nu.png&w=384&q=75",
+      "nameCate": "Nữ"
+    },
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095850-trem.png&w=384&q=75",
+      "nameCate": "Trẻ em"
+    },
+    {
+      "img": "https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F095812-nguoigia.png&w=384&q=75",
+      "nameCate": "Người già"
+    }
+  ]
+}

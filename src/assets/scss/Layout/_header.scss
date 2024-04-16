@@ -1,0 +1,118 @@
+.header-content {
+    width: 100%;
+
+
+    .v-toolbar__content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .v-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &-left {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+
+    }
+
+    &-center {
+        .v-list {
+            display: flex;
+            overflow: hidden;
+            padding: 0;
+            height: 64px;
+
+            .v-list-item {
+                color: $title-color;
+                border-bottom: 2px solid transparent;
+
+                p {
+                    text-align: center;
+                    text-transform: uppercase;
+
+                }
+
+                &:hover {
+                    background: rgba(164, 228, 249, 0.2);
+                    border-bottom: 2px solid $primary-color ;
+
+                }
+            }
+
+            .v-list-item--active {
+                color: $primary-color;
+                border-bottom: 2px solid rgba(164, 228, 249, 0.2);
+
+            }
+        }
+    }
+
+    &-right {
+        text-align: end;
+    }
+
+}
+
+.v-navigation-drawer {
+    .v-list {
+
+        .v-list-item {
+            color: $title-color;
+
+            &:hover {
+                background: rgba(164, 228, 249, 0.2);
+                color: $primary-color;
+            }
+        }
+
+        .v-list-item--active {
+            color: $primary-color;
+        }
+    }
+}
+
+
+
+@media (min-width: 1200px) {
+    .header-content-right--mobile {
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 1200px) {
+    .header-content {
+        width: 100%;
+
+        &-left {
+            text-align: start;
+            width: 80%;
+
+        }
+
+        &-center {
+            .v-list {
+                display: none;
+            }
+        }
+
+        &-right {
+            display: none;
+            width: 20%;
+        }
+
+        &-right--mobile {
+            text-align: end;
+        }
+    }
+
+
+}

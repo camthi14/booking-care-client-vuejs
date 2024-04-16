@@ -1,0 +1,32 @@
+.account-layout {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+
+    .card-login {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 25px 45px rgb(1 2 2 / 12%);
+    }
+
+    .card-res {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 25px 45px rgb(1 2 2 / 12%);
+    }
+
+}
+
+
+
+.form-forgot-pass {
+    padding: 40px;
+    background: #fff;
+    border-radius: 20px;
+    min-width: 80vh;
+    margin: 0 auto;
+}

@@ -1,0 +1,48 @@
+.background-top {
+    position: relative;
+    background: linear-gradient(to right, #08363633, #1c023c33),
+        url("https://bookingcare.vn/_next/image?url=https%3A%2F%2Fcdn.bookingcare.vn%2Ffo%2F2022%2F10%2F26%2F093216-bc.jpg&w=1920&q=75");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+
+    &-title {
+        font-size: 30px;
+        padding: 50px 0;
+        letter-spacing: 8px !important;
+        color: #fff;
+        text-shadow: 1px 1px 2px #1f2226, 0 0 25px #45bee5, 0 0 5px #45bee5;
+    }
+}
+
+.frame-input {
+    background: #f7d800;
+    width: 100%;
+    max-width: 1200px;
+    position: absolute;
+    bottom: -34px;
+
+    .v-input {
+        background: #fff;
+
+        .v-input__details {
+            display: none !important;
+        }
+    }
+
+    .v-field--variant-filled .v-field__overlay {
+        background-color: #fff;
+    }
+}
+
+
+.card-service {
+    background-color: #fff;
+    box-shadow: 1px 2px 5px #999;
+
+    &:hover {
+        box-shadow: 0 25px 45px rgba(1, 2, 2, 0.1215686275);
+    }
+}

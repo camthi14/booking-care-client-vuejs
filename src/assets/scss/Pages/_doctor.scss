@@ -1,0 +1,78 @@
+.v-main {
+    .doctor {
+        padding: 5px 40px;
+        border-bottom: 1px solid #555;
+
+        &-diagram {
+            display: flex;
+            align-items: center;
+
+            &-list {
+                list-style: none;
+                display: flex;
+                align-items: center;
+
+                li {
+                    display: flex;
+
+                    a {
+                        text-decoration: none;
+                        color: #1f2226;
+                        display: flex;
+                        align-items: center;
+                        font-size: 18px;
+
+                        h3 {
+                            font-style: italic;
+                        }
+
+                        &:hover {
+                            color: #45bee5;
+                        }
+
+                    }
+                }
+            }
+        }
+
+        &-schedule {
+            &-detail {
+
+                &-day {
+                    display: flex;
+
+
+                    ul {
+                        --widthUl: 55%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        width: var(--widthUl);
+                        list-style: none;
+                        gap: 10px;
+                        padding: 0 12px 0 0;
+                        border-right: 1px solid #eee;
+
+                        li {
+                            width: 23%;
+
+                            button {
+                                width: 100%;
+                            }
+                        }
+                    }
+
+                    div {
+                        width: calc(100% - var(--widthUl));
+                        padding-left: 16px;
+                    }
+                }
+            }
+        }
+    }
+
+    .introduce {
+        background: #eee;
+
+    }
+
+}

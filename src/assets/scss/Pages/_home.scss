@@ -1,0 +1,29 @@
+.v-main {
+
+    .card-home {
+        &-title {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .card-doctor {
+            .v-card-item__content {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+
+                img {
+                    width: 150PX;
+                    height: 150px;
+                    border-radius: 50%;
+                    object-fit: cover;
+                }
+            }
+
+        }
+
+    }
+}

@@ -1,0 +1,15 @@
+.v-footer {
+    color: $title-color;
+    display: flex;
+    justify-content: space-around;
+
+    .v-row {
+
+        .v-col {
+
+            ul>li {
+                padding: 5px 0;
+            }
+        }
+    }
+}
